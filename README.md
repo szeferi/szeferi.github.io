@@ -1,2 +1,2 @@
-# szeferu.github.io
+# szeferi.github.io
 Demo page
